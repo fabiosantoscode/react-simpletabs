@@ -46,7 +46,6 @@
     ]
   },
   "peerDependencies": {
-    "react": "*"
   },
   "dependencies": {
     "classnames": "^1.2.0"
